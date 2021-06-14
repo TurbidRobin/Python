@@ -1,0 +1,27 @@
+{
+    "python.pythonPath": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.analysis.extraPaths": [
+        "Day 9",
+        "Day 10",
+        "Day 11",
+        "Day 12",
+        "Day 13",
+        "Day 14",
+        "flask",
+        "waitress",
+        "requests_html",
+        "pandas",
+        "fastapi",
+        "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages",
+        "Day 15",
+        "moviepy",
+        "C:\\ffmpeg\\bin",
+        "Pipfile",
+        "SoloPygameTest",
+        "Space Invaders",
+        
+        
+        
+    ],
+    "python.analysis.completeFunctionParens": true
+}

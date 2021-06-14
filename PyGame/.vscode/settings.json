@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "C:\\Users\\Oliver\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.analysis.extraPaths": [
+        "pygame",
+        "SoloPygameTest",
+        "Space Invaders",
+        
+        
+        
+    ],
+    "python.analysis.completeFunctionParens": true
+}
