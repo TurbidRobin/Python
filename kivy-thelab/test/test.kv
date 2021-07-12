@@ -1,0 +1,15 @@
+MainWidget:
+
+<MainWidget>:
+	cols: 3
+	TextInput:
+		id: my_text_input
+		size_hint : None, 1
+		width : "100dp"
+		text: "Enter Here"
+		multiline: False
+		on_text_validate: root.adj(self)
+	Label:
+		text: root.mad_lib
+		pos: "300dp", "300dp"
+
